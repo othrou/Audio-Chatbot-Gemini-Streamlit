@@ -18,7 +18,7 @@ genai.configure(api_key=GOOGLE_API_KEY)
 
 with st.sidebar:
 
-    st.image("ensias.png", width=200)
+    st.image("loho.png", width=200)
     st.title('Audio - Chatbot💬')
     st.markdown('''
     ## About APP:
@@ -30,7 +30,7 @@ with st.sidebar:
 
     ## About this project:
 
-    - This project was created by O.ROUGUI and Z.ZHAR in the contexte of Multimedia data processing course. 
+    - say something :). 
     
     ''')
 
