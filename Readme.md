@@ -7,8 +7,9 @@ This project aims to create an audio chatbot that detects the voice, identifies 
 
 ### Step 1: Clone the Repository 
 First, clone the repository to your local machine:
-bash
+
 [git clone https://github.com/yourusername/your-repo-name.git](https://github.com/othrou/Audio-Chatbot-Gemini-Streamlit.git)
+
 cd your-repo-name
 
 ### Step 1: Clone the Repository
